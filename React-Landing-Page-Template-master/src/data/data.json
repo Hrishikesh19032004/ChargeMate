@@ -1,0 +1,185 @@
+{
+  "Header": {
+    "title": "Your E.V. Charging Companion. ",
+    "paragraph": "At ChargeMate, we're dedicated to making your electric vehicle (EV) charging experience seamless and stress-free. Our innovative platform combines cutting-edge technology with user-friendly features to assist you at every step of your journey."
+  },
+  "About": {
+    "paragraph": "At ChargeMate, we're dedicated to making your electric vehicle (EV) charging experience seamless and stress-free. Our innovative platform combines cutting-edge technology with user-friendly features to assist you at every step of your journey.",
+    "Why": [
+      "Voice Assistance",
+      "Emergency Services",
+      "Route Selector",
+      "Shop Section"
+    ],
+    "Why2": [
+      "Reliable Network",
+      "Exceptional Support",
+      "User-Friendly Interface",
+      "Innovation and Technology"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Route Selector",
+      "text": "Efficiently plan your journeys with our route selector, providing optimized routes tailored to your preferences and real-time conditions for seamless navigation."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Emergency Services",
+      "text": "Ensure safety and peace of mind with our Emergency feature, allowing users to swiftly alert us in distressing situations, triggering immediate notifications for prompt assistance from our dedicated response team, ensuring timely support in critical moments."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Shop",
+      "text": "Explore our comprehensive Shop section offering a wide array of top-quality EV parts and accessories, curated to enhance your electric vehicle's performance and style, providing everything you need for a seamless driving experience."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Route Selector",
+      "text": "Efficiently plan your journeys with our route selector, providing optimized routes tailored to your preferences and real-time conditions for seamless navigation."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Emergency Services",
+      "text": "Ensure safety and peace of mind with our Emergency feature, allowing users to swiftly alert us in distressing situations, triggering immediate notifications for prompt assistance from our dedicated response team, ensuring timely support in critical moments."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Shop",
+      "text": "Explore our comprehensive Shop section offering a wide array of top-quality EV parts and accessories, curated to enhance your electric vehicle's performance and style, providing everything you need for a seamless driving experience."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Voice Assistance",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+    
+  ]
+}
